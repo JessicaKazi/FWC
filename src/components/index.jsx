@@ -39,6 +39,7 @@ function FWC() {
             <h3>Please Choose a Flag</h3>
           <div className="containerInput">
             <select onChange={dropChange}>
+                <option>Pick A Country</option>
               {countries.map((flags) => (
                 <option key={flags.country} value={flags.flags}>
                   {flags.country}
