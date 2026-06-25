@@ -1,0 +1,12 @@
+[
+    {"id": "1", "country": "Argentina", "flags": "images/argentina1818.png"},
+    {"id": "2", "country": "Cote D'Ivoire", "flags": "images/cotedivoire1959.png"},
+    {"id": "3", "country": "Curacao", "flags": "images/curacao1984.png"},
+    {"id": "4", "country": "Democratic Republic of the Congo", "flags": "images/congokinshasa2006.png"},
+    {"id": "5", "country": "France", "flags": "images/france1794.png"},
+    {"id": "6", "country": "Japan", "flags": "images/japan1999.png"},
+    {"id": "7", "country": "Morocco", "flags": "images/morocco1915.png"},
+    {"id": "8", "country": "Portugal", "flags": "images/portugal1910.png"},
+    {"id": "9", "country": "Senegal", "flags": "images/senegal1960.png"},
+    {"id": "10", "country": "Switzerland", "flags": "images/switzerland1889.png"}
+]
